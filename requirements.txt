@@ -20,7 +20,7 @@ cytoolz==0.8.2
 dask==0.15.4
 decorator==4.1.2
 dill==0.2.7.1
-distributed==1.19.2
+distributed==2021.10.0
 enum34==1.1.6
 ftfy==4.4.3
 funcsigs==1.0.2
