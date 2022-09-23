@@ -71,7 +71,7 @@ preshed==1.0.0
 prettytable==0.7.2
 progressbar2==3.34.3
 prompt-toolkit==1.0.15
-protobuf==3.4.0
+protobuf==3.18.3
 psutil==5.4.0
 ptyprocess==0.5.2
 Pygments==2.2.0
